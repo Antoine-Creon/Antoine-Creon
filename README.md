@@ -23,7 +23,7 @@ I'm a nephrologist, and PhD student in biostatistics and epidemiology at Karolin
 ## 🚀 Key Projects
 - **Albuminuria care gaps in kidney disease**  
   Investigating disparities in monitoring and treatment in large-scale register and laboratory data.  
-  🔗 Coming soon
+  🔗 **[_Créon A. et al., American Journal of Kidney Diseases, 2025_](https://doi.org/10.1053/j.ajkd.2025.09.020)**
 - **Measured versus estimated glomerular filtration rate and risk of adverse outcomes**  
   Comparing measured and estimated GFR to understand how they relate to kidney failure, cardiovascular events, and mortality.  
   🔗 Coming soon
@@ -33,8 +33,6 @@ I'm a nephrologist, and PhD student in biostatistics and epidemiology at Karolin
 
 ## 📫 How to reach me
 [![Email](https://img.shields.io/badge/Email-antoine.creon@ki.se-lightgrey?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=870052)](mailto:antoine.creon@ki.se) 
-[![Bluesky](https://img.shields.io/badge/Bluesky-@antoinecreon.bsky.social-lightgrey?style=for-the-badge&logo=bluesky&logoColor=white&labelColor=1DA1F2)](https://bsky.app/profile/antoinecreon.bsky.social) 
-[![X](https://img.shields.io/badge/X-@AntoineCreon-lightgrey?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/AntoineCreon)
 
 ## 🌍 Outside Work
 When I’m not working on data and kidney research, you’ll probably find me:  
