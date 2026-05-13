@@ -23,11 +23,7 @@ I'm a nephrologist, and PhD student in biostatistics and epidemiology at Karolin
 ## 🚀 Key Projects
 - **Albuminuria care gaps in kidney disease**  
   Investigating disparities in monitoring and treatment in large-scale register and laboratory data.  
-  🔗 **[_Créon A. et al., American Journal of Kidney Diseases, 2025_](https://doi.org/10.1053/j.ajkd.2025.09.020
-        
-        
-        
-        )**
+  🔗 **[_Créon A. et al., American Journal of Kidney Diseases, 2025_](https://doi.org/10.1053/j.ajkd.2025.09.020)**
 - **Population-based eGFR distributions and early identification of chronic kidney disease**  
   Developing a framework using population-specific eGFR distributions to identify individuals at high risk of kidney failure or death.  
   🔗 **[_Yang Y. et al., Kidney International, 2026_](https://www.kidney-international.org/article/S0085-2538(25)00989-5/fulltext)**
